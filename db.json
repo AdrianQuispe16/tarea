@@ -1,0 +1,28 @@
+{
+    "producto":[
+        {
+            "id": 1,
+            "Descripcion": "Mouse",
+            "Imagen" ; "https://thumbs.dreamstime.com/z/rat%C3%B3n-de-ordenador-con-reflexi%C3%B3n-aislada-png-transparente-tecnolog%C3%ADa-la-comunicaci%C3%B3n-incluir-formato-adicional-fondo-270846611.jpg",
+            "Precio": "30.00"
+        },
+        {
+            "id": 2,
+            "Descripcion": "Pantalla",
+            "Imagen" ; "https://i.blogs.es/61c495/pantalla/1366_2000.jpg",
+            "Precio":"30.00"
+        },
+        {
+            "id": 3,
+            "Descripcion": "Teclado",
+            "Imagen" ; "https://www.adslzone.net/app/uploads-adslzone.net/2022/04/Teclado.jpg",
+            "Precio":"30.00"
+        },
+        {
+             "id": 4,
+            "Descripcion": "Mouse",
+            "Imagen" ; "https://thumbs.dreamstime.com/z/rat%C3%B3n-de-ordenador-con-reflexi%C3%B3n-aislada-png-transparente-tecnolog%C3%ADa-la-comunicaci%C3%B3n-incluir-formato-adicional-fondo-270846611.jpg",
+            "Precio": "30.00"
+        }
+    ]
+}
